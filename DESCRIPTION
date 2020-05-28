@@ -1,0 +1,21 @@
+Package: Etapezer
+Title: Wow
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "T",
+           family = "V",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: test du ME.
+License: GPL-3
+Depends: 
+    R (>= 2.10)
+Imports: 
+    adventr,
+    ggplot2,
+    learnr
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0

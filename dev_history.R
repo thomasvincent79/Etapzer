@@ -12,3 +12,5 @@ attachment::att_to_description()
 #use_data_raw("donne_ordi")
 use_r("donne_ordi")
 use_r("data_internet")
+
+usethis::use_git()

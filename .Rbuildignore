@@ -5,3 +5,5 @@
 ^inst/tutorials/Tuto1/Tuto1\.Rmd$
 ^data-raw$
 ^inst/tutorials/Tuto2/Tuto2\.Rmd$
+^README\.Rmd$
+^\.github$
